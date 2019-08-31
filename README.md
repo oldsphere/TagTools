@@ -11,5 +11,5 @@ during a `fastai` course for quick generation of datasets.
 
 * `MultiTagTester` is a similar interface object which allow you to check the
   prediccion of your model.
-
+  ![ImageTagger](docs/imgs/MultiTagChecker.png)
 
